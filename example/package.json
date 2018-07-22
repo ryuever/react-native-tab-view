@@ -20,7 +20,8 @@
     "babel-plugin-module-resolver": "^3.1.1",
     "babel-preset-expo": "^4.0.0",
     "glob-to-regexp": "^0.4.0",
-    "react-native-scripts": "1.13.1"
+    "react-native-scripts": "1.13.1",
+    "react-native-tab-view": "../src"
   },
   "resolutions": {
     "**/prop-types": "15.6.1",

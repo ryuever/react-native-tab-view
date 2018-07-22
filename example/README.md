@@ -6,3 +6,13 @@
   + Run `yarn` to install the dependencies
   + Run `yarn start` to start the packager
   + Scan the QR Code with the Expo app
+
+```shell
+$ cd ../
+$ yarn
+
+$ cd example
+$ yarn
+
+$ npm run ios
+```
